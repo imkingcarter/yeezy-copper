@@ -1,5 +1,5 @@
 var config = {
-  'desired_sizes': ['9', '9.5', '10', '8.5', '8', '10.5', '11', '11.5', '12'], // arranged in order of preference
+  'desired_sizes': ['', '9.5', '10', '8.5', '8', '10.5', '11', '11.5', '12'], // arranged in order of preference
   'billing_different_than_shipping': true, // set to use diff billing address
   'first_name': 'Hypebeast',
   'last_name': 'McYeezus',
