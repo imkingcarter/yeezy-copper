@@ -15,7 +15,7 @@ var config = {
   'billing_state': 'South Carolina',
   'billing_zipcode': '29403',
   'name_on_card': 'Jeremy A Carter',
-  'card_number': '',
+  'card_number': '5312580002576265',
   'expires_month': 'June', // must be full month name to match adidas.com
   'expires_year': '2018',
   'security_code': '677'
